@@ -1,0 +1,24 @@
+body {
+  background-image: url("./background.jpg");
+  background-size: cover;
+  background-position: center center;
+}
+
+h1 {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 20px;
+  justify-content: center;
+  margin-top: 100px;
+  font-size: medium;
+  font-weight: bold;
+  font-size: x-large;
+}
+
+.big-text {
+  margin-left: 12px;
+}
